@@ -3,6 +3,7 @@ layout: post
 title:  "Ludus Devblog 0"
 date:   2024-07-08 00:35:56 +0930
 categories: ludus devblog
+comments: true
 ---
 
 Welcome to the first ever Ludus Devblog! Here I'll update you on what has been going on with this elusive project, including its current status and what I've done so far.
