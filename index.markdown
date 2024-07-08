@@ -5,4 +5,4 @@ title: Home
 layout: home
 ---
 
-This is a blog about the development of Ludus and computer things that interest me.
+This is a blog about the development of Ludus and computer things that interest me. There is currently {{ site.posts | size }} posts here, and many more to come!
